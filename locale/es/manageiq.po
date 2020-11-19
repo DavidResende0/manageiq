@@ -5118,7 +5118,7 @@ msgid "Cloud resource quota"
 msgstr "Cuota de recursos de nube"
 
 #: ../config/model_attributes.rb:377
-msgid "Cloud service"
+msgid "Cloud Service"
 msgstr "Servicio de nube"
 
 #: ../config/model_attributes.rb:388

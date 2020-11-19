@@ -45802,7 +45802,7 @@ msgid "CloudResourceQuota|Value"
 msgstr ""
 
 #: ../config/model_attributes.rb:375
-msgid "Cloud service"
+msgid "Cloud Service"
 msgstr ""
 
 #: ../config/model_attributes.rb:376

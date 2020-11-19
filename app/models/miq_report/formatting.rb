@@ -213,10 +213,6 @@ module MiqReport::Formatting
     end
   end
 
-  def format_datetime_local(val, options)
-    return format_datetime(val, options)
-  end
-
   def format_set(val, options)
     return val unless val.kind_of?(Array)
     options[:delimiter] ||= ", "
